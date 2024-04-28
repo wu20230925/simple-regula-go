@@ -3,7 +3,12 @@
 A simple go SDK for [regula](https://docs.regulaforensics.com/develop/overview/).
 
 # 1. How to use
-See the example.
+```bash
+go get -u github.com/wu20230925/simple-regula-go
+```
+And then import to your application.
+
+See the example how to use it.
 
 ## 2. Update model
 
