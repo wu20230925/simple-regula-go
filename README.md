@@ -1,6 +1,6 @@
 # simple-regula-go
 
-A simple go SDK for regula.
+A simple go SDK for [regula](https://docs.regulaforensics.com/develop/overview/).
 
 # 1. How to use
 See the example.
