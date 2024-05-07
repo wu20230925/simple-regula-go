@@ -10,6 +10,8 @@ And then import to your application.
 
 See the example how to use it.
 
+**Requires go 1.20+**
+
 ## 2. Update model
 
 Clone repo [DocumentReader-web-openapi](https://github.com/regulaforensics/DocumentReader-web-openapi)
@@ -48,3 +50,7 @@ oapi-codegen -package model -generate "types,skip-prune" [path of single.yml]> m
 ```
 
 **Notion**: You need to install [oapi-codegen](https://github.com/deepmap/oapi-codegen/tree/master) firstly.
+
+
+
+> Cause of oapi-codegen requires go1.20+, you can use v0.0.1-alpha under the version 1.20.(v0.0.1-alpha was manually edited.)
